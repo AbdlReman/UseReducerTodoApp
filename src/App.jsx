@@ -1,11 +1,9 @@
-// import BasicUseEffect from "./useEffect/BasicUseEffect";
-import Window from "./windowSize/Window";
+import Reducer from "./reducer/Reducer";
 
 function App() {
   return (
     <>
-      <Window />
-      {/* <BasicUseEffect /> */}
+      <Reducer />
     </>
   );
 }
